@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { ScrollView, Image, Text } from 'react-native';
-
+//nice and clean code
 export default class IScrolledDownAndWhatHappenedNextShockedMe extends Component {
   render() {
       return (
